@@ -21,6 +21,8 @@ public class SoftAandHasse {
 		System.out.println("Second test");
 		System.out.println("third test");
 		
+		//softassertion
+		
 		sa.assertAll();
 		
 		
